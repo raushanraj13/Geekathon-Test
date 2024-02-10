@@ -1,0 +1,14 @@
+.whole-banner {
+    display: inline-block;
+    position: relative;
+}
+
+.ring {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
